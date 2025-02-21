@@ -28,3 +28,4 @@ app.use("/api/answers", answerRouter);
 //////////////////////////////////////////////////////
 
 app.listen(port, () => console.log(`Listening at http://localhost:${port}`));
+console.log("Evangadi");
